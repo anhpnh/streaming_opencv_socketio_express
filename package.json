@@ -1,0 +1,24 @@
+{
+  "name": "streaming_opencv_socketio_express",
+  "version": "1.0.0",
+  "description": "streaming_opencv_socketio_express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhpnh/streaming_opencv_socketio_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhpnh/streaming_opencv_socketio_express/issues"
+  },
+  "homepage": "https://github.com/anhpnh/streaming_opencv_socketio_express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
