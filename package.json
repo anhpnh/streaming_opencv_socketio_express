@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/anhpnh/streaming_opencv_socketio_express#readme",
   "dependencies": {
+    "ejs": "^3.1.9",
     "express": "^4.18.2",
+    "opencv4nodejs": "^5.6.0",
     "socket.io": "^4.7.2"
   }
 }
